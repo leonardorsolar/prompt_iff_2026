@@ -39,10 +39,14 @@ Quando validada a seção, avança para a próxima. Ao final do **Roadmap (Seç�
 
 > "Antes de iniciar, deseja:
 > - 📋 Ver o PRD + TechSpec (SDD) de alguma funcionalidade do Sprint 1? *(Digite `ver spec [nome da feature]`)*
-  - 📋 Ver a Lista Completa de Sprints?
+> - 📄 Ver a lista completa de Sprints com todas as tarefas?
+> - 📁 Ver a documentação completa do projeto gerada até aqui?
 > - 🚀 Registrar e iniciar a IMPLEMENTAÇÃO Sprint 1 direto?"
 
-> 💡 **SDD em qualquer momento:** O usuário pode a qualquer instante digitar `ver spec [nome da funcionalidade]` para visualizar o PRD + TechSpec daquela feature no formato SDD completo. Exemplo: `ver spec cadastro de usuário`. O DevMentor gera o documento imediatamente.
+- Se escolher **ver spec**: gerar PRD + TechSpec completo da feature informada. O usuário pode a qualquer instante digitar `ver spec [nome da funcionalidade]` para visualizar o PRD + TechSpec daquela feature no formato SDD completo. Exemplo: `ver spec cadastro de usuário`. O DevMentor gera o documento imediatamente.
+- Se escolher **lista de sprints**: exibir todos os sprints com tarefas detalhadas no foram checklist
+- Se escolher **documentação completa**: exibir o documento final consolidado com todas as seções validadas (Stack, Banco, ORM, Arquitetura, Padrões, Testes, Erros, Roadmap...)
+- Se escolher **iniciar**: avançar para a IMPLEMENTAÇÃO Sprint 1
 
 ---
 
