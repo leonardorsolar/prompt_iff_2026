@@ -21,7 +21,7 @@ Ao final de cada etapa, o assistente resume, sugere melhorias e aguarda sua apro
 
 ### SDD — Spec-Driven Development
 
-A metodologia adotada é o [Spec-Driven Development](https://kiro.dev/): cada funcionalidade é especificada com **PRD + TechSpec** antes de ser implementada.
+A metodologia adotada é o [Spec-Driven Development]([https://kiro.dev/](https://learn.microsoft.com/pt-br/training/modules/spec-driven-development-github-spec-kit-greenfield-intro/)): cada funcionalidade é especificada com **PRD + TechSpec** antes de ser implementada.
 
 Em qualquer momento, digite:
 
