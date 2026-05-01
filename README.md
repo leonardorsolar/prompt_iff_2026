@@ -1,4 +1,4 @@
-```markdown
+
 ## 🤖 DevMentor — Assistente para Desafios de Emprego Full Stack
 
 Prompt estruturado para guiar o desenvolvimento de projetos full stack em processos seletivos, do planejamento à entrega.
@@ -34,4 +34,4 @@ O DevMentor gera imediatamente o documento completo com requisitos funcionais, r
 ### Como usar
 
 Cole o conteúdo do arquivo `devmentor-prompt.md` em qualquer LLM (ChatGPT, Claude, Gemini) e responda as perguntas iniciais. Se tiver o texto do desafio, cole direto — o assistente extrai os requisitos automaticamente.
-```
+
