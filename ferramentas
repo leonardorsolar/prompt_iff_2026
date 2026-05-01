@@ -21,3 +21,9 @@ VALUES
 ('Teclado Mecânico', 250);
 
 SELECT * FROM products;
+
+
+# Extensões no vscode
+
+SQLite Viewer
+Thunder Client
